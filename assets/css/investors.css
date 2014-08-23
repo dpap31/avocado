@@ -1,0 +1,15 @@
+.sign-in{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 33%;
+  position: relative;
+  margin:0 auto;
+}
+
+.sign-in input {
+  margin-bottom: 15px;
+}
+
+.sign-in .btn-primary{
+  margin-bottom: 100px;
+}
