@@ -75,6 +75,12 @@ main.slide-out .cd-overlay {
     color: white;
     font-weight: 700;
   }
+  .cd-section h4 {
+    margin-bottom: 2em;
+    color: white;
+    font-weight: 700;
+    margin-bottom: 2em;
+  }
   .cd-section p {
     line-height: 1.8;
     font-size: 18px;
