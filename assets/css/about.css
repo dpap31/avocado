@@ -70,9 +70,10 @@ main.slide-out .cd-overlay {
   .cd-section {
     padding: 6em;
   }
-  .cd-section h2 {
+  .cd-section h3 {
     margin-bottom: 2em;
     color: white;
+    font-weight: 700;
   }
   .cd-section p {
     line-height: 1.8;
@@ -104,14 +105,15 @@ section.cd-section.cd-placeholder-1{
 }
 
 #cd-team {
-  background: #8abeb2;
+  background: #333333;
   padding-bottom: 900px;
 }
 #cd-team .cd-container {
   max-width: 1200px;
 }
 #cd-team h2 {
-  color: #1a2f2a;
+  color: white;
+  margin-bottom: 50px;
 }
 #cd-team .list-unstyled {
   padding-left: 10%;

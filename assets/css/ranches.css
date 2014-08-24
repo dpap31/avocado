@@ -37,9 +37,10 @@ table {
 }
 
 #blue div > h3 {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: white;
-}
+  font-weight: 700;
+
+font-weight: }
 .cd-container::after {
   /* clearfix */
   content: '';

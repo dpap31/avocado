@@ -1,4 +1,4 @@
-.sign-in{
+.sign-in {
   padding-top: 50px;
   padding-bottom: 50px;
   width: 33%;
@@ -12,4 +12,10 @@
 
 .sign-in .btn-primary{
   margin-bottom: 100px;
+}
+
+#blue h3 {
+	color: white;
+	font-weight: 700;
+	
 }
