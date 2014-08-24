@@ -51,10 +51,12 @@ main.slide-out .cd-overlay {
 .cd-section {
   padding: 2em 0;
   text-align: center;
+
 }
 
 .cd-section p {
   line-height: 1.4;
+  color: white;
 }
 @media only screen and (min-width: 768px) {
   .cd-section {
@@ -70,6 +72,7 @@ main.slide-out .cd-overlay {
   }
   .cd-section h2 {
     margin-bottom: 2em;
+    color: white;
   }
   .cd-section p {
     line-height: 1.8;
@@ -86,10 +89,14 @@ header p {
   color: #93861d;
 }
 
+section.cd-section.cd-placeholder-1{
+  height: 350px;
+}
+
 .cd-placeholder-1 {
-  background: #7fbbda;
- /* background: #556B2F;*/
-  color: #fdeaea;
+  background: #333333;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .cd-placeholder-2 {
@@ -98,7 +105,7 @@ header p {
 
 #cd-team {
   background: #8abeb2;
-  padding-bottom: 600px;
+  padding-bottom: 900px;
 }
 #cd-team .cd-container {
   max-width: 1200px;
@@ -106,6 +113,10 @@ header p {
 #cd-team h2 {
   color: #1a2f2a;
 }
+#cd-team .list-unstyled {
+  padding-left: 10%;
+}
+
 #cd-team li {
   margin-bottom: 2em;
   border-radius: 0.25em;
@@ -125,9 +136,10 @@ header p {
 }
 #cd-team img {
   display: block;
-  width: 100%;
+  max-height: 270px;
   border-radius: .25em .25em 0 0;
 }
+
 #cd-team .cd-img-overlay {
   position: absolute;
   top: 0;
@@ -172,9 +184,10 @@ header p {
 }
 @media only screen and (min-width: 768px) {
   #cd-team li {
-    width: 31%;
+    width: 25%;
     float: left;
-    margin-right: 3.5%;
+    margin-right: 7%;
+    margin-bottom: 7%;
   }
   #cd-team li:nth-child(3n) {
     margin-right: 0;
