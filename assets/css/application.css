@@ -176,12 +176,6 @@ a:after {
 #lg h4 {
 	font-weight: 700;
 }
-.glyphicon {
-  position: absolute;
-  top: 51px;
-  left: 129px;
-  font-size: 30px;
-}
 
 /* Red Wrap */
 #r {

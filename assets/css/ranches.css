@@ -55,6 +55,9 @@ font-weight: }
   text-indent: 100%;
   white-space: nowrap;
 }
+.navbar{
+  z-index: 5;
+}
 
 /* -------------------------------- 
 
