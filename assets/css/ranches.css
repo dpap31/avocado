@@ -36,6 +36,12 @@ table {
   margin: 0 auto;
 }
 
+.w {
+padding-top: 35px;
+background-color: #e0e0e0;
+width: 100%;
+}
+
 #blue div > h3 {
   color: white;
   font-weight: 700;

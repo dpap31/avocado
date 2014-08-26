@@ -11,10 +11,11 @@
 
 #cd-team img {
   display: block;
-  max-height: 30%;
+  max-height: 40%;
   max-width: 100%;
   border-radius: .25em .25em 0 0;
 }
+
 
 
 /*Slide out about us*/
@@ -83,7 +84,7 @@ main.slide-out .cd-overlay {
   .glyphicon {
         position: absolute;
         top: 51px;
-        left: 45.5%;
+        left: 46%;
         font-size: 30px;
       }
     }
@@ -147,6 +148,7 @@ section.cd-section.cd-placeholder-1{
 }
 #cd-team .cd-container {
   max-width: 1200px;
+  margin: auto;
 }
 #cd-team h2 {
   color: white;
